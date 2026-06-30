@@ -27,3 +27,4 @@ Frontend Developer with 2.5+ years of experience.
 
 LinkedIn: https://in.linkedin.com/in/shakeb-shaikh-537296222
 Email:shakebshaikh25@gmail.com
+Phone: +91 9960505380
