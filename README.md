@@ -11,7 +11,7 @@ Frontend Developer with 2.5+ years of experience.
 - JavaScript
 - HTML
 - CSS
-- Tailwind CSS'
+- Tailwind CSS
 - Bootstrap
 - Git
 - Azure
